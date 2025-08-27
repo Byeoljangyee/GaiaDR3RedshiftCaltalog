@@ -1,5 +1,5 @@
 # GaiaDR3RedshiftCaltalog
 
-This repository contains the updated redshift catalog based on the Gaia DR3 galaxy\_candidates table, which is comprehensively discussed in *[my not-yet-published paper]*.
-*[The not-yet-uploded Redshift Catalog file]* contains the Gaia DR3 source\_id, redshift, redshift error, redshift flag, and theh outlier score.
-*[The not-yet-uploded Input file]* contains the full catalog that were used in training and inference of the machine learning based photo-z.
+This repository contains the updated redshift catalog based on the Gaia DR3 galaxy\_candidates table, which is comprehensively discussed in *[my not-yet-published paper (hyperlink)]*.
+*[The not-yet-uploded Redshift Catalog file (filename)]* contains the Gaia DR3 source\_id, redshift, redshift error, redshift flag, and theh outlier score.
+*[The not-yet-uploded Input file (filename)]* contains the full catalog that were used in training and inference of the machine learning based photo-z.
